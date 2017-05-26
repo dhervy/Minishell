@@ -27,4 +27,3 @@ $> chmod 777 ../test/fichier
 * env
 * setenv
 * unsetenv
-mvjh
