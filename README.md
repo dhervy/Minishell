@@ -1,10 +1,11 @@
 # Minishell
 
-Le but était de crée un shell qui executait des commande simple et quelque bultin.
+Le but est de crer un shell qui exécute quelques commandes simples et quelques bultins.
 
 ## Compiling
 
-executer `make`, un exécutable nommé `Minishell` devrait compiler directement.
+En exécutant `make`, un exécutable nommé `minishell` sera compilé directement.
+
 
 ## Usgae
 
